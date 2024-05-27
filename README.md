@@ -13,3 +13,7 @@ Task
 
 Student ID:
 11258021
+
+screenshot of my project:
+![image](https://github.com/cruz-ramirez/rn-assignment2-ID-11258021/assets/90863541/46544b83-9303-4be2-9da1-41e0079e8175)
+
